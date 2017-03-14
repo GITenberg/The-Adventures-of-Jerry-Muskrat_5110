@@ -1,5 +1,8 @@
 _repo: The-Adventures-of-Jerry-Muskrat_5110
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burgess, Thornton W. (Thornton Waldo)
@@ -13,6 +16,8 @@ description: Beloved children's classic concerns the problems faced by Jerry Mus
   and the other creatures of the Green Forest when the water stops flowing in the
   Laughing Brook and the Smiling Pool. Children will love finding out how Jerry, Little
   Joe Otter, Billy Mink, and others team up to solve the dilemma.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5110#The-Adventures-of-Jerry-Muskrat
 gutenberg_bookshelf:
 - Children's Book Series
 - Children's Literature
